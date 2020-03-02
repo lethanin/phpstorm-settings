@@ -1,0 +1,33 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b338c4e6-ca7e-4169-98d7-23025857213b" name="Shardimage R17" url="http://shardimager17.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="43fa897b-4f78-4405-9f00-b5adb3ea1f2c" name="tortenetek" url="http://tortenetek.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="78cadec3-a216-48c9-ac4a-12646a90bcd3" name="shardimage_doc" url="http://docs.shardimage.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="52f31965-f5c4-4c6a-99a5-2674db3ba699" name="yii-wdoc" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="9dae4545-4806-471c-913f-7943919d25f1" name="yii" url="http://yii.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="0a091d21-73ee-40ba-b431-ac1647762555" name="Chat" url="http://chat.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="c6598218-3635-4b01-b0ad-1c2cec3d1618" name="natalie" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="cf112039-caa2-4bf9-b5ea-15b397fa703e" name="book" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="f6462ce2-2c51-417a-b1ed-76c219dd94de" name="biztositok_redesign_v3" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
