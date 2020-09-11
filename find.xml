@@ -1,7 +1,9 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.css</mask>
     <mask>*.html</mask>
@@ -15,10 +17,12 @@
     <mask>*.ctp</mask>
     <mask>*.p</mask>
     <mask>*main.php</mask>
+    <mask>*.json</mask>
     <mask>*.js</mask>
     <mask>params*.php</mask>
-    <mask>*.php</mask>
+    <mask>*Controller.php</mask>
     <mask>*.scss</mask>
+    <mask>*.php</mask>
     <mask>main*.php</mask>
   </component>
 </application>
