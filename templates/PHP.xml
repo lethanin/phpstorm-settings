@@ -4,4 +4,9 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="Enc" value="Html::encode($SELECTION$);" description="Html::encode(" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>

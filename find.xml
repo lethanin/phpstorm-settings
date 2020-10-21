@@ -18,11 +18,11 @@
     <mask>*.p</mask>
     <mask>*main.php</mask>
     <mask>*.json</mask>
-    <mask>*.js</mask>
     <mask>params*.php</mask>
     <mask>*Controller.php</mask>
     <mask>*.scss</mask>
     <mask>*.php</mask>
+    <mask>*.js</mask>
     <mask>main*.php</mask>
   </component>
 </application>
